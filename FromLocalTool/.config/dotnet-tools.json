@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "mysupertool": {
+      "version": "1.0.0",
+      "commands": [
+        "MyValidator"
+      ]
+    }
+  }
+}
